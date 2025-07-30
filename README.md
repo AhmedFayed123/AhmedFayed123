@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @AhmedFayed123
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on software engineering
-- 📫 How to reach me (medofayed683@gmail.com)
+💼 Software Engineer 
 
+👨‍🎓 Graduated from Faculty of Computers & Information – Menoufia University
 
+💡 Passionate about building clean, scalable, and impactful software solutions
+
+📱 Specialized in Flutter | .NET & REST APIs
+
+🤝 Open to freelance projects, collaborations, and internships
+
+✉️ Reach me at: medofayed683@gmail.com
+
+🚀 Always learning. Always building.
